@@ -1,6 +1,6 @@
 ### Who am I 😎
 
-Hi, I am an **Red Team Engineer** at Picus Security and a **Security Researcher** at Synack Red Team. In my free time, I am doing research about 0-day and vulnerabilities.
+Hi, I am a **Red Team Engineer** at Picus Security and a **Security Researcher** at Synack Red Team. In my free time, I am doing research about 0-day and vulnerabilities.
 
 You can find more details on [my web site](https://emreovunc.com/index.html).
 
