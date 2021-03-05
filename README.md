@@ -10,7 +10,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 - [LinkedIn](https://tr.linkedin.com/in/emreovunc)
 
-- [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w) / [Twitch](https://www.twitch.tv/emreovunc/)
+- [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
 
 ### Summary 📢
 
