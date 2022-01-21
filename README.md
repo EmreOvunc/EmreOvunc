@@ -1,16 +1,27 @@
-### Hi there 👋
+### Who am I 😎
 
-<!--
-**EmreOvunc/EmreOvunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am working as a **Security Researcher** at Synack Red Team. In my free time, I am doing research about 0-day and vulnerabilities.
 
-Here are some ideas to get you started:
+You can find more details on [my web site](https://emreovunc.com/index.html).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social Accounts 🙌🏼
+
+- [LinkedIn](https://en.linkedin.com/in/emreovunc)
+
+- [Twitter](https://twitter.com/emreovunc)
+
+- [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
+
+- [Synack](https://acropolis.synack.com/inductees/ovunc/)
+
+- [Bugcrowd](https://bugcrowd.com/Monster/)
+
+- [HackerOne](https://hackerone.com/ovunc/)
+
+### Summary 📢
+
++ [x] Development of cyber threats and new attack techniques. 
++ [x] Analyzing malware and assessing damage. 
++ [x] Red teaming activities. 
++ [x] Providing software security and penetration testing trainings.
++ [x] Developing network security applications.
