@@ -1,6 +1,6 @@
 ### Who am I 😎
 
-Hi, I am working as a **Security Researcher** at Synack Red Team. In my free time, I am doing research about 0-day and vulnerabilities.
+Hi, I am working as an **Application Security Specialist** at *Deliveroo* and a **Security Researcher** at *Synack Red Team*. In my free time, I am doing research about 0-day and vulnerabilities.
 
 You can find more details on [my web site](https://emreovunc.com/index.html).
 
