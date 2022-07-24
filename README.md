@@ -3,6 +3,7 @@
 Hi, I am working as a **Senior Application Security Specialist** at *Deliveroo* and a **Security Researcher** at *Synack Red Team*. In my free time, I am doing research about 0-day and vulnerabilities.
 
 You can find more details on [my web site](https://emreovunc.com/index.html).
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=emreovunc&show_icons=true&theme=radical" width="380">
 
 ### Social Accounts 🙌🏼
 
@@ -17,6 +18,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 - [Bugcrowd](https://bugcrowd.com/Monster/)
 
 - [HackerOne](https://hackerone.com/ovunc/)
+
 
 ### Summary 📢
 
