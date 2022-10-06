@@ -8,8 +8,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 - [LinkedIn](https://en.linkedin.com/in/emreovunc)
 
-- [Twitter](https://twitter.com/emreovunc) <img align='right' src="https://github-readme-stats.vercel.app/api?username=emreovunc&show_icons=true&theme=radical" width="380">
-
+- [Twitter](https://twitter.com/emreovunc)
 
 - [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
 
