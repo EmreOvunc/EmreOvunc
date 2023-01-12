@@ -6,7 +6,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 ### Social Accounts 🙌🏼
 
-- [LinkedIn](https://en.linkedin.com/in/emreovunc)
+- [LinkedIn](https://tr.linkedin.com/in/emreovunc)
 
 - [Twitter](https://twitter.com/emreovunc)
 
