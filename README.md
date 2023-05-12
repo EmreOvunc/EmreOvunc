@@ -1,6 +1,6 @@
 ### Who am I 😎
 
-Hi, I am working as a **Senior Application Security Specialist** at *Deliveroo* and a **Security Researcher** at *Synack Red Team*. In my free time, I am doing research about 0-day and vulnerabilities.
+Hi, I am working as a **Senior Application Security Specialist** at *Deliveroo* and also as a freelancer/bug bounty hunter. In my free time, I am doing research about 0-day and vulnerabilities.
 
 You can find more details on [my web site](https://emreovunc.com/index.html).
 
@@ -26,3 +26,4 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 + [x] Red teaming activities. 
 + [x] Providing software security and penetration testing trainings.
 + [x] Developing network security applications.
++ [x] Threat modelling / security assessments.
