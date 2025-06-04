@@ -38,3 +38,4 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 + [x] Certified Ethical Hacking Practical (CEH)
 + [x] ISO 27001 Lead Auditor
 + [x] Linux Foundation Certified Sysadmin (LFCS)
++ [x] Certified AI/ML Pentester (C-AI/MLPen)
