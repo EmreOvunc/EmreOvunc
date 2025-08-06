@@ -14,7 +14,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 - [Synack](https://acropolis.synack.com/inductees/ovunc/)
 
-- [Bugcrowd](https://bugcrowd.com/Monster/)
+- [Bugcrowd](https://bugcrowd.com/h/Monster/)
 
 - [HackerOne](https://hackerone.com/ovunc/)
 
