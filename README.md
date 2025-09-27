@@ -6,17 +6,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 ### Social Accounts 🙌🏼
 
-- [LinkedIn](https://uk.linkedin.com/in/emreovunc)
-
-- [Twitter](https://twitter.com/emreovunc)
-
-- [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
-
-- [Synack](https://acropolis.synack.com/inductees/ovunc/)
-
-- [Bugcrowd](https://bugcrowd.com/h/Monster/)
-
-- [HackerOne](https://hackerone.com/ovunc/)
+[LinkedIn](https://uk.linkedin.com/in/emreovunc) / [Twitter](https://twitter.com/emreovunc) / [Bugcrowd](https://bugcrowd.com/h/Monster/) / [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
 
 
 ### Summary 📢
@@ -39,3 +29,6 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 + [x] ISO 27001 Lead Auditor
 + [x] Linux Foundation Certified Sysadmin (LFCS)
 + [x] Certified AI/ML Pentester (C-AI/MLPen)
++ [x] Certified AppSec Pentester (CAPen)
++ [x] Certified AppSec Practitioner v2 (CAP)
+
