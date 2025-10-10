@@ -30,5 +30,8 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 + [x] Linux Foundation Certified Sysadmin (LFCS)
 + [x] Certified AI/ML Pentester (C-AI/MLPen)
 + [x] Certified AppSec Pentester (CAPen)
++ [x] Certified Network Pentester (CNPen)
 + [x] Certified AppSec Practitioner v2 (CAP)
++ [x] Certified Network Security Practitioner (CNSP)
+
 
