@@ -6,7 +6,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 
 ### Social Accounts 🙌🏼
 
-[LinkedIn](https://uk.linkedin.com/in/emreovunc) / [Twitter](https://twitter.com/emreovunc) / [Bugcrowd](https://bugcrowd.com/h/Monster/) / [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
+[Twitter](https://twitter.com/emreovunc) / [Bugcrowd](https://bugcrowd.com/h/Monster/) / [Youtube](https://www.youtube.com/channel/UC95D3RuinnpmgqMb64LAW_w)
 
 
 ### Summary 📢
@@ -21,6 +21,7 @@ You can find more details on [my web site](https://emreovunc.com/index.html).
 + [x] WAF Hardening (Cloudflare)
 
 ### Certifications 📃
++ [x] CREST CPSA
 + [x] Offensive Security Certified Expert (OSCE)
 + [x] Offensive Security Certified Professional (OSCP)
 + [x] Offensive Security Wireless Professional (OSWP)
